@@ -12,4 +12,4 @@ docker run -it -p 8765:8765 pyhanlp hanlp serve
 
 ## sniff
 
-To capture pocket with scapy
+To capture packet with scapy
